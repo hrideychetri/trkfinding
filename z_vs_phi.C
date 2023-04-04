@@ -35,7 +35,7 @@ TF1 *f1 = new TF1();
 TGraph2D* graph = new TGraph2D();
 
 
-std::ifstream infile("data/data190_200.dat"); // Open input file
+std::ifstream infile("data/data190_200.dat"); // Open input file (hits from recohits for the time window of 190 - 200 ns)
 
 //reading data from input file
 std::vector<double> xpos, ypos, zpos, time, ratio, phi, rho, max_bin_coord_1, max_bin_coord_2, zz;
