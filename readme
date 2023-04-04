@@ -1,0 +1,2 @@
+the file with the name data180_190.dat are the file with the hits from recohits for the time window of 180-190 ns.
+this dat file is fed as input in z_vs_phi.C script.
